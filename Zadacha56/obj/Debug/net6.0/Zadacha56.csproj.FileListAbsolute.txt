@@ -1,0 +1,15 @@
+C:\Users\ВТБ\Desktop\8DZ_C\Zadacha56\obj\Debug\net6.0\Zadacha56.csproj.AssemblyReference.cache
+C:\Users\ВТБ\Desktop\8DZ_C\Zadacha56\obj\Debug\net6.0\Zadacha56.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ВТБ\Desktop\8DZ_C\Zadacha56\obj\Debug\net6.0\Zadacha56.AssemblyInfoInputs.cache
+C:\Users\ВТБ\Desktop\8DZ_C\Zadacha56\obj\Debug\net6.0\Zadacha56.AssemblyInfo.cs
+C:\Users\ВТБ\Desktop\8DZ_C\Zadacha56\obj\Debug\net6.0\Zadacha56.csproj.CoreCompileInputs.cache
+C:\Users\ВТБ\Desktop\8DZ_C\Zadacha56\bin\Debug\net6.0\Zadacha56.exe
+C:\Users\ВТБ\Desktop\8DZ_C\Zadacha56\bin\Debug\net6.0\Zadacha56.deps.json
+C:\Users\ВТБ\Desktop\8DZ_C\Zadacha56\bin\Debug\net6.0\Zadacha56.runtimeconfig.json
+C:\Users\ВТБ\Desktop\8DZ_C\Zadacha56\bin\Debug\net6.0\Zadacha56.dll
+C:\Users\ВТБ\Desktop\8DZ_C\Zadacha56\bin\Debug\net6.0\Zadacha56.pdb
+C:\Users\ВТБ\Desktop\8DZ_C\Zadacha56\obj\Debug\net6.0\Zadacha56.dll
+C:\Users\ВТБ\Desktop\8DZ_C\Zadacha56\obj\Debug\net6.0\refint\Zadacha56.dll
+C:\Users\ВТБ\Desktop\8DZ_C\Zadacha56\obj\Debug\net6.0\Zadacha56.pdb
+C:\Users\ВТБ\Desktop\8DZ_C\Zadacha56\obj\Debug\net6.0\Zadacha56.genruntimeconfig.cache
+C:\Users\ВТБ\Desktop\8DZ_C\Zadacha56\obj\Debug\net6.0\ref\Zadacha56.dll
